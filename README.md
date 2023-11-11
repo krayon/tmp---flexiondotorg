@@ -1,3 +1,8 @@
+<div align="center">
+  <img align="center" src=".github/github-header-image.png">
+">
+</div>
+
 ### Hi there 👋
 
 <p align='center'>
