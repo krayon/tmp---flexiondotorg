@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align='center'>
+  <img align="center" src="https://raw.githubusercontent.com/flexiondotorg/github-stats-terminal-style/master/github_stats.svg">
+</p>
+
 <!--
 **flexiondotorg/flexiondotorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
