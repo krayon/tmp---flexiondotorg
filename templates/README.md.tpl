@@ -1,6 +1,6 @@
-<div align="center">
+<p align="center">
   <a href="https://wimpysworld.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/github-header-image.png"></a>
-</div>
+</p>
 
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/109326458276794082?domain=https%3A%2F%2Ffosstodon.org&style=for-the-badge&logo=mastodon&label=Mastodon&labelColor=%23161719&color=%23E4E2E2)](https://fosstodon.org/@wimpy)
 &nbsp;&nbsp;[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/m_wimpress?label=Twitter&style=for-the-badge&logo=x&labelColor=%23161719&color=%23E4E2E2)](https://twitter.com/m_wimpress)
