@@ -7,8 +7,15 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=flexiondotorg&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true&bg_color=161719&title_color=fa66ed&icon_color=6bbbfa&text_color=c5c8c6&ring_color=98ed3f&border_radius=8">
 
 I'm Martin (*also known as Wimpy*), an open-source enthusiast, frequent contributor and maker of things.
-I lead [Ubuntu MATE](https://ubuntu-mate.org) 🧉 and the author [Quickemu](https://github.com/quickemu-project)
+
+I lead [Ubuntu MATE](https://ubuntu-mate.org) 🧉 and I'm the author [Quickemu](https://github.com/quickemu-project)
 and [deb-get](https://github.com/wimpysworld/deb-get) plus a [bunch of other projects](https://wimpysworld.com/projects/).
+
+I run a small [Discord server for Wimpy's World](https://wimpysworld.io/discord) 💬 which serves as a community hub for most of my projects.
+We are a friendly bunch, and all are welcome 🏳️‍🌈
+I also run [live-coding streams on Twitch](https://twitch.tv/WimpysWorld) for my own projects and projects I contribute to.
+[Archives of the live streams are available on YouTube](https://youtube.com/WimpysWorld) 📺️
+
 Curious what I've been working on recently?
 
 #### 🚧 Check out what I'm currently working on
@@ -19,14 +26,6 @@ Curious what I've been working on recently?
 - [quickemu-project/packaging](https://github.com/quickemu-project/packaging) - Quickemu &amp; Quickgui packaging (2 days ago)
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. (2 days ago)
 
-#### 🌱 Latest projects
-
-- [flexiondotorg/github-stats-terminal-style](https://github.com/flexiondotorg/github-stats-terminal-style)
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) - My personal blog
-- [flexiondotorg/slim-aios](https://github.com/flexiondotorg/slim-aios) - Optimised OS for the Raspberry Pi for creating and running containers 🐋
-- [flexiondotorg/CNCF-02](https://github.com/flexiondotorg/CNCF-02) - CNCF Live:  Complexity vs Size vs Security
-- [flexiondotorg/mangohud-nvml-debian](https://github.com/flexiondotorg/mangohud-nvml-debian) - Debian packaging for MangoHUD with NVML enabled
-
 #### 📦️ Latest releases I've contributed to
 
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) ([4.9.1](https://github.com/quickemu-project/quickemu/releases/tag/4.9.1), 2 days ago) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
@@ -34,6 +33,11 @@ Curious what I've been working on recently?
 - [occ-ai/obs-urlsource](https://github.com/occ-ai/obs-urlsource) ([0.2.1](https://github.com/occ-ai/obs-urlsource/releases/tag/0.2.1), 5 days ago) - OBS plugin to fetch data from a URL (API) or file, parse and display it live updating on scene
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.14.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.14.0), 3 weeks ago) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
 - [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) ([0.0.2](https://github.com/wimpysworld/obs-dvd-screensaver/releases/tag/0.0.2), 3 weeks ago) - DVD screen saver for OBS Studio 📀
+- [wimpysworld/obs-rgb-levels](https://github.com/wimpysworld/obs-rgb-levels) ([1.0.2](https://github.com/wimpysworld/obs-rgb-levels/releases/tag/1.0.2), 3 weeks ago) - RGB levels plugin for OBS Studio 🎚️🌈
+- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) ([r23287](https://github.com/wimpysworld/obs-studio-portable/releases/tag/r23287), 4 weeks ago) - Portable builds of OBS Studio for Ubuntu that bundles an extensive collection of 3rd party plugins
+- [DeterminateSystems/nix-config-parser](https://github.com/DeterminateSystems/nix-config-parser) ([v0.2.0](https://github.com/DeterminateSystems/nix-config-parser/releases/tag/v0.2.0), 1 month ago)
+- [wimpysworld/nix-config](https://github.com/wimpysworld/nix-config) ([23.275.11](https://github.com/wimpysworld/nix-config/releases/tag/23.275.11), 1 month ago) - Wimpy&#39;s NixOS  &amp; Home Manager Configurations ❄️
+- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker) ([v0.1.14](https://github.com/DeterminateSystems/flake-checker/releases/tag/v0.1.14), 2 months ago) - Health checks for your Nix flakes
 
 #### 🔨 Latest Pull Requests I published
 
@@ -43,25 +47,32 @@ Curious what I've been working on recently?
 - [Add Countdown and Advanced Masks](https://github.com/wimpysworld/obs-studio-portable/pull/34) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 weeks ago)
 - [Assorted fixes and code clean up](https://github.com/wimpysworld/obs-studio-portable/pull/33) on [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) (3 weeks ago)
 
+#### 🌱 Latest projects
+
+- [flexiondotorg/github-stats-terminal-style](https://github.com/flexiondotorg/github-stats-terminal-style)
+- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) - My personal blog
+- [flexiondotorg/slim-aios](https://github.com/flexiondotorg/slim-aios) - Optimised OS for the Raspberry Pi for creating and running containers 🐋
+- [flexiondotorg/CNCF-02](https://github.com/flexiondotorg/CNCF-02) - CNCF Live:  Complexity vs Size vs Security
+- [flexiondotorg/mangohud-nvml-debian](https://github.com/flexiondotorg/mangohud-nvml-debian) - Debian packaging for MangoHUD with NVML enabled
+
 #### ❤️ These awesome people sponsor me (thank you!)
 
 - [castrojo](https://github.com/castrojo) (2 years ago)
 
-#### ⭐ Recent stars
+If you appreciate the work I do then please consider 
 
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 300&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (3 weeks ago)
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes (3 weeks ago)
-- [wimpysworld/obs-studio-portable](https://github.com/wimpysworld/obs-studio-portable) - Portable builds of OBS Studio for Ubuntu that bundles an extensive collection of 3rd party plugins (2 months ago)
-- [ublue-os/obs-studio-portable](https://github.com/ublue-os/obs-studio-portable) - OCI container image of OBS Studio that bundles a curated collection of 3rd party plugins (2 months ago)
-- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix) - Zero to Nix is your guide to learning Nix and flakes. Created by Determinate Systems. (2 months ago)
+### Spoken words
 
-#### 👯 Check out some of my recent followers
+I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends @popey and @marxjohnson.
+Here's some recent episodes:
 
-- [AkechiShiro](https://github.com/AkechiShiro)
-- [ktnjared](https://github.com/ktnjared)
-- [wagonz](https://github.com/wagonz)
-- [sudoshindo](https://github.com/sudoshindo)
-- [chococandy63](https://github.com/chococandy63)
+#### 🎙️ Linux Matters Podcast
+
+- [Mish Mash Mesh](https://linuxmatters.sh/15/) (1 week ago)
+- [One Hundred Percent Colombian](https://linuxmatters.sh/14/) (3 weeks ago)
+- [Um, Actually](https://linuxmatters.sh/13/) (1 month ago)
+- [Steam Deck Emulation Done Right](https://linuxmatters.sh/12/) (1 month ago)
+- [Using Two GPUs at Once](https://linuxmatters.sh/11/) (2 months ago)
 
 ### Written words
 
@@ -72,24 +83,6 @@ Curious what I've been working on recently?
 - [Flash Stadia Controller Bluetooth Firmware on Linux](https://wimpysworld.com/posts/flash-stadia-controller-bluetooth-firmware-on-linux/) (6 months ago)
 - [Why I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/) (6 months ago)
 - [Creating Production-Ready Containers - Advanced Techniques](https://wimpysworld.com/posts/creating-production-ready-containers-advanced-techniques/) (2 years ago)
-
-#### 🦣 My recent toots
-
-- [](https://fosstodon.org/@wimpy/111360393430498470) (1 week ago)
-- [](https://fosstodon.org/@wimpy/111359425234082043) (1 week ago)
-- [](https://fosstodon.org/@wimpy/111353782072441411) (1 week ago)
-- [](https://fosstodon.org/@wimpy/111352095157934917) (1 week ago)
-- [](https://fosstodon.org/@wimpy/111331069944180618) (1 week ago)
-
-### Spoken words
-
-#### 🎙️ My recent podcasts
-
-- [Mish Mash Mesh](https://linuxmatters.sh/15/) (1 week ago)
-- [One Hundred Percent Colombian](https://linuxmatters.sh/14/) (3 weeks ago)
-- [Um, Actually](https://linuxmatters.sh/13/) (1 month ago)
-- [Steam Deck Emulation Done Right](https://linuxmatters.sh/12/) (1 month ago)
-- [Using Two GPUs at Once](https://linuxmatters.sh/11/) (2 months ago)
 
 <p align='center'>
   <img align="center" src="https://raw.githubusercontent.com/flexiondotorg/github-stats-terminal-style/master/github_stats.svg">
