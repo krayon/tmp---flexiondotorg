@@ -2,13 +2,12 @@ name: Generate snake animation 🐍
 
 # Run daily at 01:00 AM UTC
 on:
-  push:
   schedule:
     - cron: "0 01 * * *"
   workflow_dispatch:
 
 jobs:
-  generate-snake:
+  snake:
     permissions:
       contents: write
     runs-on: ubuntu-22.04
