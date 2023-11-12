@@ -49,11 +49,11 @@ Curious what I've been working on recently?
 
 #### 🌱 Latest projects
 
-- [flexiondotorg/github-stats-terminal-style](https://github.com/flexiondotorg/github-stats-terminal-style)
-- [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) - My personal blog
-- [flexiondotorg/slim-aios](https://github.com/flexiondotorg/slim-aios) - Optimised OS for the Raspberry Pi for creating and running containers 🐋
-- [flexiondotorg/CNCF-02](https://github.com/flexiondotorg/CNCF-02) - CNCF Live:  Complexity vs Size vs Security
-- [flexiondotorg/mangohud-nvml-debian](https://github.com/flexiondotorg/mangohud-nvml-debian) - Debian packaging for MangoHUD with NVML enabled
+- [Linux Matters](https://wimpysworld.com/projects/linux-matters/) (6 months ago)
+- [machinespawn](https://wimpysworld.com/projects/machinespawn/) (1 year ago)
+- [Linux Downtime](https://wimpysworld.com/projects/linux-downtime/) (2 years ago)
+- [deb-get](https://wimpysworld.com/projects/deb-get/) (2 years ago)
+- [Retro Home](https://wimpysworld.com/projects/retro-home/) (3 years ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
