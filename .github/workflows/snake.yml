@@ -1,0 +1,32 @@
+name: Generate snake animation 🐍
+
+# Run daily at 01:00 AM UTC
+on:
+  push:
+  schedule:
+    - cron: "0 01 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate-snake:
+    permissions:
+      contents: write
+    runs-on: ubuntu-22.04
+    steps:
+      # Generate a contributions graph snake game for <github_user_name>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            build/github-contribution-grid-snake.svg?color_snake=#fa66ed
+            build/github-contribution-grid-snake-dark.svg??color_snake=#fa66ed&palette=github-dark
+      # Push the contents of <build_dir> to a branch
+      # Available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      - name: push github-contribution-grid-snake.svg to the output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          build_dir: build
+          target_branch: snake
