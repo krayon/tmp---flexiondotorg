@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://wimpysworld.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/.github/github-header-image.png"></a>
+  <a href="https://wimpysworld.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/github-header-image.png"></a>
 </div>
 
 ### Hello there 👋
@@ -52,7 +52,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 #### 🎙️ Podcast
 
-<img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
+<img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
 
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 Here's some recent episodes:
