@@ -34,7 +34,7 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          commit_username: 'GitHub Actions'
+          commit-username: 'GitHub Actions'
           commit-email: 'actions@github.com'
           commit-message: 'docs: sync README'
           destination-branch: 'main'
