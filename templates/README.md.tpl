@@ -46,7 +46,7 @@ These awesome people sponsor me, thank you!
 
 If you appreciate the work I do, then [please consider sponsoring me](https://github.com/sponsors/flexiondotorg) 🤑
 
-#### 🎙️ Spoken word
+#### 🎙️ Podcast
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [**@popey**](https://github.com/popey) and [**@marxjohnson**](https://github.com/marxjohnson).
 
 <p align="center">
@@ -61,7 +61,15 @@ Here's some recent episodes:
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### ✍️ Written word
+#### 📺️ YouTube
+
+My recent videos:
+
+{{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UChpYmMp7EFaxuogUX1eAqyw" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
+#### ✍️ Blog
 
 My recent blog posts:
 
