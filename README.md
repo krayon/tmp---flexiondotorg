@@ -14,6 +14,8 @@ and [deb-get](https://github.com/wimpysworld/deb-get) plus a [bunch of other pro
 I run a small [Discord server for Wimpy's World](https://wimpysworld.io/discord) 💬 which serves as a community hub for most of my projects.
 We are a friendly bunch, and all are welcome 🏳️‍🌈
 
+[![Discord](https://img.shields.io/discord/712850672223125565?style=for-the-badge&logo=discord&label=Discord&labelColor=%23161719&color=%23E4E2E2)](https://wimpysworld.io/discord)
+
 I [steam live-coding on Twitch](https://twitch.tv/WimpysWorld) 📡 and those streams are [archived on YouTube](https://youtube.com/WimpysWorld) 📺️
 
 These awesome people sponsor me: [castrojo](https://github.com/castrojo) Thank you! ❤️
@@ -63,8 +65,8 @@ Here's some recent episodes:
 - [Using Two GPUs at Once](https://linuxmatters.sh/11/) (2 months ago)
 
 #### 📺️ YouTube
-![Twitch Status](https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&label=Twitch&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Ftwitch.tv%2FWimpysWorld)
-&nbsp;&nbsp;![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=for-the-badge&logo=youtube&logoColor=%23fb1b20&label=youtube&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Fyoutube.com%2FWimpysWorld)
+[![Twitch Status](https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&label=Twitch&labelColor=%23161719&color=%23E4E2E2)](https://twitch.tv/WimpysWorld)
+&nbsp;&nbsp;[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=for-the-badge&logo=youtube&logoColor=%23fb1b20&label=youtube&labelColor=%23161719&color=%23E4E2E2)](https://youtube.com/WimpysWorld)
 
 - [NixOS | Packaging OBS Studio plugins and filters ❄️](https://www.youtube.com/watch?v=-QIhBJ11ZTM) (6 months ago)
 - [Ubuntu | Final release process for Ubuntu MATE 23.04 🧉](https://www.youtube.com/watch?v=mNJzcJiaCCM) (6 months ago)
@@ -81,8 +83,8 @@ Here's some recent episodes:
 - [Creating Production-Ready Containers - Advanced Techniques](https://wimpysworld.com/posts/creating-production-ready-containers-advanced-techniques/) (2 years ago)
 
 You can also find me in the usual social places:
-![Discord](https://img.shields.io/discord/712850672223125565?style=for-the-badge&logo=discord&label=Discord&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Fwimpysworld.io%2Fdiscord)
-&nbsp;&nbsp;![Mastodon Follow](https://img.shields.io/mastodon/follow/109326458276794082?domain=https%3A%2F%2Ffosstodon.org&style=for-the-badge&logo=mastodon&label=Mastodon&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Ffosstodon.org%2F%40wimpy)
-&nbsp;&nbsp;![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/m_wimpress?label=Twitter&style=for-the-badge&logo=x&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Ftwitter.com%2Fm_wimpress)
-&nbsp;&nbsp;![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/flexiondotorg?style=for-the-badge&logo=reddit&label=Reddit&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fflexiondotorg)
-&nbsp;&nbsp;![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/flexiondotorg?style=for-the-badge&logo=ycombinator&label=Hacker%20News&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Fnews.ycombinator.com%2Fuser%3Fid%3Dflexiondotorg)
+
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109326458276794082?domain=https%3A%2F%2Ffosstodon.org&style=for-the-badge&logo=mastodon&label=Mastodon&labelColor=%23161719&color=%23E4E2E2)](https://fosstodon.org/@wimpy)
+&nbsp;&nbsp;[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/m_wimpress?label=Twitter&style=for-the-badge&logo=x&labelColor=%23161719&color=%23E4E2E2)](https://twitter.com/m_wimpress)
+&nbsp;&nbsp;[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/flexiondotorg?style=for-the-badge&logo=reddit&label=Reddit&labelColor=%23161719&color=%23E4E2E2)](https://www.reddit.com/user/flexiondotorg)
+&nbsp;&nbsp;[![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/flexiondotorg?style=for-the-badge&logo=ycombinator&label=Hacker%20News&labelColor=%23161719&color=%23E4E2E2)](https://news.ycombinator.com/user/id/flexiondotorg)
