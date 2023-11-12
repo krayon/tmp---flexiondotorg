@@ -55,18 +55,27 @@ Curious what I've been working on recently?
 - [deb-get](https://wimpysworld.com/projects/deb-get/) (2 years ago)
 - [Retro Home](https://wimpysworld.com/projects/retro-home/) (3 years ago)
 
-#### ❤️ These awesome people sponsor me (thank you!)
+#### ❤️ Sponsors
+
+These awesome people sponsor me, thank you!
+
 
 - [castrojo](https://github.com/castrojo) (2 years ago)
 
 If you appreciate the work I do, then [please consider sponsoring me](https://github.com/sponsors/flexiondotorg) 🤑
 
-### Spoken words
+### Spoken word
 
-I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends @popey and @marxjohnson.
+I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [**@popey**](https://github.com/popey) and [**@marxjohnson**](https://github.com/marxjohnson).
+
+<p align="center">
+  <a href="https://linuxmatters.sh" target="_blank"><img src="./.github/linuxmatters.png" alt="Linux Matters Podcast"/></a>
+  <br />
+  <em>Linux Matters Podcast</em>
+</div>
+
 Here's some recent episodes:
 
-#### 🎙️ Linux Matters Podcast
 
 - [Mish Mash Mesh](https://linuxmatters.sh/15/) (1 week ago)
 - [One Hundred Percent Colombian](https://linuxmatters.sh/14/) (3 weeks ago)
@@ -74,7 +83,7 @@ Here's some recent episodes:
 - [Steam Deck Emulation Done Right](https://linuxmatters.sh/12/) (1 month ago)
 - [Using Two GPUs at Once](https://linuxmatters.sh/11/) (2 months ago)
 
-### Written words
+### Written word
 
 #### ✍️ My recent blog posts
 
