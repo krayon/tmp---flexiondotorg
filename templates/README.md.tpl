@@ -38,24 +38,33 @@ Curious what I've been working on recently?
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### ❤️ These awesome people sponsor me (thank you!)
+#### ❤️ Sponsors
+
+These awesome people sponsor me, thank you!
+
 {{range sponsors 5}}
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 If you appreciate the work I do, then [please consider sponsoring me](https://github.com/sponsors/flexiondotorg) 🤑
 
-### Spoken words
+### Spoken word
 
-I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends @popey and @marxjohnson.
+I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [**@popey**](https://github.com/popey) and [**@marxjohnson**](https://github.com/marxjohnson).
+
+<p align="center">
+  <a href="https://linuxmatters.sh" target="_blank"><img src="./.github/linuxmatters.png" alt="Linux Matters Podcast"/></a>
+  <br />
+  <em>Linux Matters Podcast</em>
+</div>
+
 Here's some recent episodes:
 
-#### 🎙️ Linux Matters Podcast
 {{range rss "https://linuxmatters.sh/episode/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-### Written words
+### Written word
 
 #### ✍️ My recent blog posts
 {{range rss "https://wimpysworld.com/posts/rss.xml" 5}}
