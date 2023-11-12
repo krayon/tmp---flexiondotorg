@@ -30,7 +30,7 @@ jobs:
           commit_user_email: actions@github.com
           commit_author: GitHub Actions <actions@github.com>
       - name: Push README.md to wimpysworld/.github/profile
-        uses: nkoppel/push-files-to-another-repository@v1.1.0
+        uses: nkoppel/push-files-to-another-repository@v1.1.2
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
