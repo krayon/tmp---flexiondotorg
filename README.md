@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" src=".github/github-header-image.png">
+  <a href="https://wimpysworld.com" target="_blank"><img align="center" src=".github/github-header-image.png"></a>
 </div>
 
 ### Hello there 👋
@@ -12,21 +12,21 @@ I lead [Ubuntu MATE](https://ubuntu-mate.org) 🧉 and I'm the author [Quickemu]
 and [deb-get](https://github.com/wimpysworld/deb-get) plus a [bunch of other projects](https://wimpysworld.com/projects/).
 
 I run a small [Discord server for Wimpy's World](https://wimpysworld.io/discord) 💬 which serves as a community hub for most of my projects.
-We are a friendly bunch, and all are welcome 🏳️‍🌈
-I also run [live-coding streams on Twitch](https://twitch.tv/WimpysWorld) which are [archived on YouTube](https://youtube.com/WimpysWorld) 📺️
+We are a friendly bunch, and all are welcome [![Discord](https://img.shields.io/discord/712850672223125565?style=social&logo=discord&label=Discord)](https://wimpysworld.io/discord)
+
+You can also find me in the usual social places:
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109326458276794082?domain=https%3A%2F%2Ffosstodon.org&style=social&logo=mastodon)](https://fosstodon.org/@wimpy)
+
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/m_wimpress?style=social&logo=x)](https://twitter.com/m_wimpress)
+
+I [steam live-coding on Twitch](https://twitch.tv/WimpysWorld) [![Twitch Status](https://img.shields.io/twitch/status/wimpysworld?style=social&logo=twitch&label=Twitch)](https://twitch.tv/wimpysworld)
+The live streams are [archived on YouTube](https://youtube.com/WimpysWorld) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=social&logo=youtube)](https://youtube.com/wimpysworld)
 
 These awesome people sponsor me: [castrojo](https://github.com/castrojo) Thank you! ❤️
 If you appreciate the work I do, then [please consider sponsoring me too](https://github.com/sponsors/flexiondotorg) 🤑 **Curious what I've been working on recently?**
 <div align="center">
   <img align="center" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake-dark.svg">
 </div>
-
-![Discord](https://img.shields.io/discord/712850672223125565?style=social&logo=discord&label=Discord)
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109326458276794082?domain=https%3A%2F%2Ffosstodon.org&style=social&logo=mastodon)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/m_wimpress?style=social&logo=x)
-![Twitch Status](https://img.shields.io/twitch/status/wimpysworld?style=social&logo=twitch&label=Twitch)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=social&logo=youtube)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/flexiondotorg?style=social&logo=reddit)
 
 #### 🚧 Latest contributions I made
 
