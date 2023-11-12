@@ -14,16 +14,20 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       # Generate a contributions graph snake game for <github_user_name>
-      - name: generate github-contribution-grid-snake.svg
+      - name: Generate snake animations
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Light - https://coolors.co/gradient-palette/e4e2e2-98ed3f?number=5
+          # Dark - https://coolors.co/gradient-palette/161719-98ed3f?number=5
           outputs: |
-            build/github-contribution-grid-snake.svg?color_snake=#fa66ed
-            build/github-contribution-grid-snake-dark.svg??color_snake=#fa66ed&palette=github-dark
+            build/github-contribution-grid-snake.svg?color_snake=#fa66ed&color_dots=#E4E2E2,#D1E5B9,#BEE891,#ABEA68,#98ED3F
+            build/github-contribution-grid-snake.gif?color_snake=#fa66ed&color_dots=#E4E2E2,#D1E5B9,#BEE891,#ABEA68,#98ED3F
+            build/github-contribution-grid-snake-dark.svg?color_snake=#fa66ed&color_dots=#161719,#374D23,#57822C,#78B836,#98ED3F
+            build/github-contribution-grid-snake-dark.gif?color_snake=#fa66ed&color_dots=#161719,#374D23,#57822C,#78B836,#98ED3F
       # Push the contents of <build_dir> to a branch
-      # Available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+      # Available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>
+      - name: Push snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         uses: crazy-max/ghaction-github-pages@v3.1.0
