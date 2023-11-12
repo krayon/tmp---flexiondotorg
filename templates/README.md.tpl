@@ -18,45 +18,42 @@ I also run [live-coding streams on Twitch](https://twitch.tv/WimpysWorld) for my
 
 Curious what I've been working on recently?
 
-#### 🚧 Check out what I'm currently working on
+#### 🚧 Latest contributions I made
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### 📦️ Latest releases I've contributed to
-{{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
-{{- end}}
-
-#### 🔨 Latest Pull Requests I published
+#### 🔨 Latest pull requests I published
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 🌱 Latest projects
+#### 📦️ Latest releases I contributed to
+{{range recentReleases 5}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
+{{- end}}
+
+#### 🌱 Latest projects I started
 {{range rss "https://wimpysworld.com/projects/rss.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### ❤️ Sponsors
-
 These awesome people sponsor me, thank you!
-
 {{range sponsors 5}}
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 If you appreciate the work I do, then [please consider sponsoring me](https://github.com/sponsors/flexiondotorg) 🤑
 
-### Spoken word
-
+#### 🎙️ Spoken word
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [**@popey**](https://github.com/popey) and [**@marxjohnson**](https://github.com/marxjohnson).
 
 <p align="center">
-  <a href="https://linuxmatters.sh" target="_blank"><img src="./.github/linuxmatters.png" alt="Linux Matters Podcast"/></a>
+  <a href="https://linuxmatters.sh" target="_blank"><img src=".github/linuxmatters.png" alt="Linux Matters Podcast"/></a>
   <br />
   <em>Linux Matters Podcast</em>
-</div>
+</p>
 
 Here's some recent episodes:
 
@@ -64,9 +61,10 @@ Here's some recent episodes:
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-### Written word
+#### ✍️ Written word
 
-#### ✍️ My recent blog posts
+My recent blog posts:
+
 {{range rss "https://wimpysworld.com/posts/rss.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
