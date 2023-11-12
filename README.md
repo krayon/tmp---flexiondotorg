@@ -16,6 +16,12 @@ We are a friendly bunch, and all are welcome 🏳️‍🌈
 I also run [live-coding streams on Twitch](https://twitch.tv/WimpysWorld) for my own projects and projects I contribute to.
 [Archives of the live streams are available on YouTube](https://youtube.com/WimpysWorld) 📺️
 
+These awesome people sponsor me: 
+
+[castrojo](https://github.com/castrojo)
+Thank you! ❤️
+If you appreciate the work I do, then [please consider sponsoring me](https://github.com/sponsors/flexiondotorg) 🤑
+
 Curious what I've been working on recently?
 
 #### 🚧 Latest contributions I made
@@ -50,22 +56,9 @@ Curious what I've been working on recently?
 - [deb-get](https://wimpysworld.com/projects/deb-get/) (2 years ago)
 - [Retro Home](https://wimpysworld.com/projects/retro-home/) (3 years ago)
 
-#### ❤️ Sponsors
-These awesome people sponsor me, thank you!
-
-- [castrojo](https://github.com/castrojo) (2 years ago)
-
-If you appreciate the work I do, then [please consider sponsoring me](https://github.com/sponsors/flexiondotorg) 🤑
-
 #### 🎙️ Podcast
+<img align="right" src=".github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [**@popey**](https://github.com/popey) and [**@marxjohnson**](https://github.com/marxjohnson).
-
-<p align="center">
-  <a href="https://linuxmatters.sh" target="_blank"><img src=".github/linuxmatters.png" alt="Linux Matters Podcast"/></a>
-  <br />
-  <em>Linux Matters Podcast</em>
-</p>
-
 Here's some recent episodes:
 
 
@@ -74,11 +67,9 @@ Here's some recent episodes:
 - [Um, Actually](https://linuxmatters.sh/13/) (1 month ago)
 - [Steam Deck Emulation Done Right](https://linuxmatters.sh/12/) (1 month ago)
 - [Using Two GPUs at Once](https://linuxmatters.sh/11/) (2 months ago)
+- [History All the Way Down](https://linuxmatters.sh/10/) (2 months ago)
 
 #### 📺️ YouTube
-
-My recent videos:
-
 
 - [NixOS | Packaging OBS Studio plugins and filters ❄️](https://www.youtube.com/watch?v=-QIhBJ11ZTM) (6 months ago)
 - [Ubuntu | Final release process for Ubuntu MATE 23.04 🧉](https://www.youtube.com/watch?v=mNJzcJiaCCM) (6 months ago)
@@ -87,9 +78,6 @@ My recent videos:
 - [Linux | Preparing a new release of Quickemu and wrangling some Bash 🐚](https://www.youtube.com/watch?v=No1G-AxYHpY) (9 months ago)
 
 #### ✍️ Blog
-
-My recent blog posts:
-
 
 - [Install ZeroTier on Steam Deck](https://wimpysworld.com/posts/install-zerotier-on-steamdeck/) (2 months ago)
 - [Steam Box vs Steam Deck](https://wimpysworld.com/posts/steambox-vs-steamdeck/) (6 months ago)
