@@ -45,7 +45,7 @@ Curious what I've been working on recently?
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.14.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.14.0), 3 weeks ago) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
 - [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) ([0.0.2](https://github.com/wimpysworld/obs-dvd-screensaver/releases/tag/0.0.2), 3 weeks ago) - DVD screen saver for OBS Studio 📀
 
-#### 🌱 Latest projects I started
+#### 🌱 Latest projects I created or started working on
 
 - [Linux Matters](https://wimpysworld.com/projects/linux-matters/) (6 months ago)
 - [machinespawn](https://wimpysworld.com/projects/machinespawn/) (1 year ago)
