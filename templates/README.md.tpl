@@ -45,18 +45,6 @@ Curious what I've been working on recently?
 
 If you appreciate the work I do then please consider 
 
-### Written words
-
-#### ✍️ My recent blog posts
-{{range rss "https://wimpysworld.com/posts/rss.xml" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
-#### 🦣 My recent toots
-{{range rss "https://fosstodon.org/@wimpy.rss" 5}}
-- [{{.description}}]({{.link}}) ({{humanize .pubDate}})
-{{- end}}
-
 ### Spoken words
 
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends @popey and @marxjohnson.
@@ -64,6 +52,13 @@ Here's some recent episodes:
 
 #### 🎙️ Linux Matters Podcast
 {{range rss "https://linuxmatters.sh/episode/index.xml" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
+### Written words
+
+#### ✍️ My recent blog posts
+{{range rss "https://wimpysworld.com/posts/rss.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
