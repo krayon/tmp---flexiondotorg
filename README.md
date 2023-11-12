@@ -20,6 +20,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 Curious what I've been working on recently?
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake.svg">
+</picture>
+
 #### 🚧 Latest contributions I made
 
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) - My personal blog (1 day ago)
@@ -83,6 +89,4 @@ Here's some recent episodes:
 - [Why I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/) (6 months ago)
 - [Creating Production-Ready Containers - Advanced Techniques](https://wimpysworld.com/posts/creating-production-ready-containers-advanced-techniques/) (2 years ago)
 
-<p align='center'>
-  <img align="center" src="https://raw.githubusercontent.com/flexiondotorg/github-stats-terminal-style/master/github_stats.svg">
-</p>
+
