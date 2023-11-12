@@ -21,6 +21,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   <img align="center" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake-dark.svg">
 </div>
 
+![Discord](https://img.shields.io/discord/712850672223125565?style=social&logo=discord&label=Discord)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109326458276794082?domain=https%3A%2F%2Ffosstodon.org&style=social&logo=mastodon)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/m_wimpress?style=social&logo=x)
+![Twitch Status](https://img.shields.io/twitch/status/wimpysworld?style=social&logo=twitch&label=Twitch)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=social&logo=youtube)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/flexiondotorg?style=social&logo=reddit)
+
 #### 🚧 Latest contributions I made
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
@@ -63,9 +70,3 @@ Here's some recent episodes:
 {{range rss "https://wimpysworld.com/posts/rss.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
-
-<!--
-<p align='center'>
-  <img align="center" src="https://raw.githubusercontent.com/flexiondotorg/github-stats-terminal-style/master/github_stats.svg">
-</p>
--->
