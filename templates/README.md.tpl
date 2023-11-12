@@ -71,3 +71,7 @@ Here's some recent episodes:
 {{range rss "https://wimpysworld.com/posts/rss.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
+
+<p align="center">
+  <a href="https://wimpysworld.com" target="_blank"><img alt="Hit Counter" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fflexiondotorg%2Fflexiondotorg.json&style=flat-square&logo=github&logoColor=ffffff&label=Visitors&labelColor=%23f76ce9&color=%236fbbf6">
+</p>
