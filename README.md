@@ -57,7 +57,7 @@ These awesome people sponsor me, thank you!
 
 If you appreciate the work I do, then [please consider sponsoring me](https://github.com/sponsors/flexiondotorg) 🤑
 
-#### 🎙️ Spoken word
+#### 🎙️ Podcast
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [**@popey**](https://github.com/popey) and [**@marxjohnson**](https://github.com/marxjohnson).
 
 <p align="center">
@@ -75,7 +75,18 @@ Here's some recent episodes:
 - [Steam Deck Emulation Done Right](https://linuxmatters.sh/12/) (1 month ago)
 - [Using Two GPUs at Once](https://linuxmatters.sh/11/) (2 months ago)
 
-#### ✍️ Written word
+#### 📺️ YouTube
+
+My recent videos:
+
+
+- [NixOS | Packaging OBS Studio plugins and filters ❄️](https://www.youtube.com/watch?v=-QIhBJ11ZTM) (6 months ago)
+- [Ubuntu | Final release process for Ubuntu MATE 23.04 🧉](https://www.youtube.com/watch?v=mNJzcJiaCCM) (6 months ago)
+- [NixOS | Planning OBS Studio Flaking Loaded for NixOS ❄️](https://www.youtube.com/watch?v=sB-r0im0Mr8) (7 months ago)
+- [NixOS | Planning my NixOS ❄️ device future 🔮](https://www.youtube.com/watch?v=v9GM8k9Aa7k) (7 months ago)
+- [Linux | Preparing a new release of Quickemu and wrangling some Bash 🐚](https://www.youtube.com/watch?v=No1G-AxYHpY) (9 months ago)
+
+#### ✍️ Blog
 
 My recent blog posts:
 
