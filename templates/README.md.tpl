@@ -36,7 +36,7 @@ Curious what I've been working on recently?
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
 {{- end}}
 
-#### 🌱 Latest projects I started
+#### 🌱 Latest projects I created or started working on
 {{range rss "https://wimpysworld.com/projects/rss.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
