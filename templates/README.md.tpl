@@ -43,7 +43,7 @@ Curious what I've been working on recently?
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-If you appreciate the work I do then please consider 
+If you appreciate the work I do, then [please consider sponsoring me](https://github.com/sponsors/flexiondotorg) 🤑
 
 ### Spoken words
 
