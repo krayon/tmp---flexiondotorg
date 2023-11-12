@@ -2,8 +2,6 @@
   <img align="center" src=".github/github-header-image.png">
 </div>
 
-### Hi there 👋
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=flexiondotorg&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true&bg_color=161719&title_color=fa66ed&icon_color=6bbbfa&text_color=c5c8c6&ring_color=98ed3f&border_radius=8">
 
 I'm Martin (*also known as Wimpy*), an open-source enthusiast, frequent contributor and maker of things.
@@ -16,9 +14,7 @@ We are a friendly bunch, and all are welcome 🏳️‍🌈
 I also run [live-coding streams on Twitch](https://twitch.tv/WimpysWorld) which are [archived on YouTube](https://youtube.com/WimpysWorld) 📺️
 
 These awesome people sponsor me: {{range sponsors 5}}[{{.User.Login}}]({{.User.URL}}) {{- end}} Thank you! ❤️
-If you appreciate the work I do, then [please consider sponsoring me too](https://github.com/sponsors/flexiondotorg) 🤑
-
-Curious what I've been working on recently?
+If you appreciate the work I do, then [please consider sponsoring me too](https://github.com/sponsors/flexiondotorg) 🤑 **Curious what I've been working on recently?**
 <div align="center">
   <img align="center" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake-dark.svg">
 </div>
@@ -50,7 +46,6 @@ Curious what I've been working on recently?
 <img align="right" src=".github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
 
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
-
 Here's some recent episodes:
 
 {{range rss "https://linuxmatters.sh/episode/index.xml" 5}}
