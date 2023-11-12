@@ -16,6 +16,13 @@ We are a friendly bunch, and all are welcome 🏳️‍🌈
 I also run [live-coding streams on Twitch](https://twitch.tv/WimpysWorld) for my own projects and projects I contribute to.
 [Archives of the live streams are available on YouTube](https://youtube.com/WimpysWorld) 📺️
 
+These awesome people sponsor me: 
+{{range sponsors 5}}
+[{{.User.Login}}]({{.User.URL}}) 
+{{- end}}
+Thank you! ❤️
+If you appreciate the work I do, then [please consider sponsoring me](https://github.com/sponsors/flexiondotorg) 🤑
+
 Curious what I've been working on recently?
 
 #### 🚧 Latest contributions I made
@@ -38,41 +45,21 @@ Curious what I've been working on recently?
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### ❤️ Sponsors
-These awesome people sponsor me, thank you!
-{{range sponsors 5}}
-- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-If you appreciate the work I do, then [please consider sponsoring me](https://github.com/sponsors/flexiondotorg) 🤑
-
 #### 🎙️ Podcast
+<img align="right" src=".github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [**@popey**](https://github.com/popey) and [**@marxjohnson**](https://github.com/marxjohnson).
-
-<p align="center">
-  <a href="https://linuxmatters.sh" target="_blank"><img src=".github/linuxmatters.png" alt="Linux Matters Podcast"/></a>
-  <br />
-  <em>Linux Matters Podcast</em>
-</p>
-
 Here's some recent episodes:
 
-{{range rss "https://linuxmatters.sh/episode/index.xml" 5}}
+{{range rss "https://linuxmatters.sh/episode/index.xml" 6}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 📺️ YouTube
-
-My recent videos:
-
 {{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UChpYmMp7EFaxuogUX1eAqyw" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### ✍️ Blog
-
-My recent blog posts:
-
 {{range rss "https://wimpysworld.com/posts/rss.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
