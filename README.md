@@ -16,10 +16,7 @@ We are a friendly bunch, and all are welcome 🏳️‍🌈
 I also run [live-coding streams on Twitch](https://twitch.tv/WimpysWorld) for my own projects and projects I contribute to.
 [Archives of the live streams are available on YouTube](https://youtube.com/WimpysWorld) 📺️
 
-These awesome people sponsor me: 
-
-[castrojo](https://github.com/castrojo)
-Thank you! ❤️
+These awesome people sponsor me: [castrojo](https://github.com/castrojo) Thank you! ❤️
 If you appreciate the work I do, then [please consider sponsoring me](https://github.com/sponsors/flexiondotorg) 🤑
 
 Curious what I've been working on recently?
@@ -57,8 +54,9 @@ Curious what I've been working on recently?
 - [Retro Home](https://wimpysworld.com/projects/retro-home/) (3 years ago)
 
 #### 🎙️ Podcast
-<img align="right" src=".github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
-I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [**@popey**](https://github.com/popey) and [**@marxjohnson**](https://github.com/marxjohnson).
+<img align="left" src=".github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
+I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
+
 Here's some recent episodes:
 
 
@@ -67,7 +65,6 @@ Here's some recent episodes:
 - [Um, Actually](https://linuxmatters.sh/13/) (1 month ago)
 - [Steam Deck Emulation Done Right](https://linuxmatters.sh/12/) (1 month ago)
 - [Using Two GPUs at Once](https://linuxmatters.sh/11/) (2 months ago)
-- [History All the Way Down](https://linuxmatters.sh/10/) (2 months ago)
 
 #### 📺️ YouTube
 
