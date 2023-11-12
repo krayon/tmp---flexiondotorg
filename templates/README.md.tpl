@@ -34,8 +34,8 @@ Curious what I've been working on recently?
 {{- end}}
 
 #### 🌱 Latest projects
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
+{{range rss "https://wimpysworld.com/projects/rss.xml" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### ❤️ These awesome people sponsor me (thank you!)
