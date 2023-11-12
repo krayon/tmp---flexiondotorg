@@ -17,14 +17,12 @@ I also run [live-coding streams on Twitch](https://twitch.tv/WimpysWorld) which 
 
 These awesome people sponsor me: [castrojo](https://github.com/castrojo) Thank you! ❤️
 If you appreciate the work I do, then [please consider sponsoring me too](https://github.com/sponsors/flexiondotorg) 🤑
-
-Curious what I've been working on recently?
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake.svg">
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake.svg">
 </picture>
+Curious what I've been working on recently?
 
 #### 🚧 Latest contributions I made
 
@@ -50,13 +48,7 @@ Curious what I've been working on recently?
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) ([v0.14.0](https://github.com/DeterminateSystems/nix-installer/releases/tag/v0.14.0), 3 weeks ago) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
 - [wimpysworld/obs-dvd-screensaver](https://github.com/wimpysworld/obs-dvd-screensaver) ([0.0.2](https://github.com/wimpysworld/obs-dvd-screensaver/releases/tag/0.0.2), 3 weeks ago) - DVD screen saver for OBS Studio 📀
 
-#### 🌱 Latest projects I created or started working on
 
-- [Linux Matters](https://wimpysworld.com/projects/linux-matters/) (6 months ago)
-- [machinespawn](https://wimpysworld.com/projects/machinespawn/) (1 year ago)
-- [Linux Downtime](https://wimpysworld.com/projects/linux-downtime/) (2 years ago)
-- [deb-get](https://wimpysworld.com/projects/deb-get/) (2 years ago)
-- [Retro Home](https://wimpysworld.com/projects/retro-home/) (3 years ago)
 
 #### 🎙️ Podcast
 
