@@ -70,3 +70,11 @@ Here's some recent episodes:
 {{range rss "https://wimpysworld.com/posts/rss.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
+
+![Discord](https://img.shields.io/discord/712850672223125565?style=for-the-badge&logo=discord&label=Discord&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Fwimpysworld.io%2Fdiscord)
+![Twitch Status](https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&label=Twitch&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Ftwitch.tv%2FWimpysWorld)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=for-the-badge&logo=youtube&logoColor=%23fb1b20&label=youtube&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Fyoutube.com%2FWimpysWorld)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109326458276794082?domain=https%3A%2F%2Ffosstodon.org&style=for-the-badge&logo=mastodon&label=Mastodon&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Ffosstodon.org%2F%40wimpy)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/m_wimpress?label=%40m_wimpress&style=for-the-badge&logo=x&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Ftwitter.com%2Fm_wimpress)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/flexiondotorg?style=for-the-badge&logo=reddit&label=Reddit&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fflexiondotorg)
+![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/flexiondotorg?style=for-the-badge&logo=ycombinator&label=Hacker%20News&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Fnews.ycombinator.com%2Fuser%3Fid%3Dflexiondotorg)
