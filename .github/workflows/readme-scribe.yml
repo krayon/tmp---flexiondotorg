@@ -26,6 +26,19 @@ jobs:
         with:
           commit_message: "docs: update README.md"
           branch: main
-          commit_user_name: readme-scribe 🤖
+          commit_user_name: GitHub Actions
           commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+          commit_author: GitHub Actions <actions@github.com>
+      - name: Push README.md to wimpysworld/.github/profile
+        uses: nkoppel/push-files-to-another-repository@1.1.2
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          commit_username: 'GitHub Actions'
+          commit-email: 'actions@github.com'
+          commit-message: 'docs: sync README'
+          destination-branch: 'main'
+          destination-directory: 'profile/'
+          destination-repository: '.github'
+          destination-username: 'wimpysworld'
+          source-files: README.md
