@@ -12,15 +12,9 @@ I lead [Ubuntu MATE](https://ubuntu-mate.org) 🧉 and I'm the author [Quickemu]
 and [deb-get](https://github.com/wimpysworld/deb-get) plus a [bunch of other projects](https://wimpysworld.com/projects/).
 
 I run a small [Discord server for Wimpy's World](https://wimpysworld.io/discord) 💬 which serves as a community hub for most of my projects.
-We are a friendly bunch, and all are welcome [![Discord](https://img.shields.io/discord/712850672223125565?style=social&logo=discord&label=Discord)](https://wimpysworld.io/discord)
+We are a friendly bunch, and all are welcome 🏳️‍🌈
 
-You can also find me in the usual social places:
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/109326458276794082?domain=https%3A%2F%2Ffosstodon.org&style=social&logo=mastodon)](https://fosstodon.org/@wimpy)
-
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/m_wimpress?style=social&logo=x)](https://twitter.com/m_wimpress)
-
-I [steam live-coding on Twitch](https://twitch.tv/WimpysWorld) [![Twitch Status](https://img.shields.io/twitch/status/wimpysworld?style=social&logo=twitch&label=Twitch)](https://twitch.tv/wimpysworld)
-The live streams are [archived on YouTube](https://youtube.com/WimpysWorld) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=social&logo=youtube)](https://youtube.com/wimpysworld)
+I [steam live-coding on Twitch](https://twitch.tv/WimpysWorld) 📡 and those streams are [archived on YouTube](https://youtube.com/WimpysWorld) 📺️
 
 These awesome people sponsor me: [castrojo](https://github.com/castrojo) Thank you! ❤️
 If you appreciate the work I do, then [please consider sponsoring me too](https://github.com/sponsors/flexiondotorg) 🤑 **Curious what I've been working on recently?**
@@ -69,6 +63,8 @@ Here's some recent episodes:
 - [Using Two GPUs at Once](https://linuxmatters.sh/11/) (2 months ago)
 
 #### 📺️ YouTube
+![Twitch Status](https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&label=Twitch&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Ftwitch.tv%2FWimpysWorld)
+&nbsp;&nbsp;![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=for-the-badge&logo=youtube&logoColor=%23fb1b20&label=youtube&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Fyoutube.com%2FWimpysWorld)
 
 - [NixOS | Packaging OBS Studio plugins and filters ❄️](https://www.youtube.com/watch?v=-QIhBJ11ZTM) (6 months ago)
 - [Ubuntu | Final release process for Ubuntu MATE 23.04 🧉](https://www.youtube.com/watch?v=mNJzcJiaCCM) (6 months ago)
@@ -84,10 +80,9 @@ Here's some recent episodes:
 - [Why I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/) (6 months ago)
 - [Creating Production-Ready Containers - Advanced Techniques](https://wimpysworld.com/posts/creating-production-ready-containers-advanced-techniques/) (2 years ago)
 
+You can also find me in the usual social places:
 ![Discord](https://img.shields.io/discord/712850672223125565?style=for-the-badge&logo=discord&label=Discord&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Fwimpysworld.io%2Fdiscord)
-![Twitch Status](https://img.shields.io/twitch/status/WimpysWorld?style=for-the-badge&logo=twitch&label=Twitch&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Ftwitch.tv%2FWimpysWorld)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=for-the-badge&logo=youtube&logoColor=%23fb1b20&label=youtube&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Fyoutube.com%2FWimpysWorld)
-![Mastodon Follow](https://img.shields.io/mastodon/follow/109326458276794082?domain=https%3A%2F%2Ffosstodon.org&style=for-the-badge&logo=mastodon&label=Mastodon&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Ffosstodon.org%2F%40wimpy)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/m_wimpress?label=%40m_wimpress&style=for-the-badge&logo=x&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Ftwitter.com%2Fm_wimpress)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/flexiondotorg?style=for-the-badge&logo=reddit&label=Reddit&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fflexiondotorg)
-![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/flexiondotorg?style=for-the-badge&logo=ycombinator&label=Hacker%20News&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Fnews.ycombinator.com%2Fuser%3Fid%3Dflexiondotorg)
+&nbsp;&nbsp;![Mastodon Follow](https://img.shields.io/mastodon/follow/109326458276794082?domain=https%3A%2F%2Ffosstodon.org&style=for-the-badge&logo=mastodon&label=Mastodon&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Ffosstodon.org%2F%40wimpy)
+&nbsp;&nbsp;![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/m_wimpress?label=Twitter&style=for-the-badge&logo=x&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Ftwitter.com%2Fm_wimpress)
+&nbsp;&nbsp;![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/flexiondotorg?style=for-the-badge&logo=reddit&label=Reddit&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Fwww.reddit.com%2Fuser%2Fflexiondotorg)
+&nbsp;&nbsp;![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/flexiondotorg?style=for-the-badge&logo=ycombinator&label=Hacker%20News&labelColor=%23161719&color=%23E4E2E2&link=https%3A%2F%2Fnews.ycombinator.com%2Fuser%3Fid%3Dflexiondotorg)
