@@ -42,7 +42,9 @@ Curious what I've been working on recently?
 {{- end}}
 
 #### 🎙️ Podcast
-<img align="left" src=".github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
+
+<img align="right" src=".github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
+
 I co-present [Linux Matters podcast](https://linuxmatters.sh) with my friends [@popey](https://github.com/popey) and [@marxjohnson](https://github.com/marxjohnson).
 
 Here's some recent episodes:
