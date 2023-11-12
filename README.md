@@ -17,12 +17,11 @@ I also run [live-coding streams on Twitch](https://twitch.tv/WimpysWorld) which 
 
 These awesome people sponsor me: [castrojo](https://github.com/castrojo) Thank you! ❤️
 If you appreciate the work I do, then [please consider sponsoring me too](https://github.com/sponsors/flexiondotorg) 🤑
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake.svg">
-</picture>
+
 Curious what I've been working on recently?
+<div align="center">
+  <img align="center" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake-dark.svg">
+</div>
 
 #### 🚧 Latest contributions I made
 
