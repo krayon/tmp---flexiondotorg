@@ -13,11 +13,10 @@ and [deb-get](https://github.com/wimpysworld/deb-get) plus a [bunch of other pro
 
 I run a small [Discord server for Wimpy's World](https://wimpysworld.io/discord) 💬 which serves as a community hub for most of my projects.
 We are a friendly bunch, and all are welcome 🏳️‍🌈
-I also run [live-coding streams on Twitch](https://twitch.tv/WimpysWorld) for my own projects and projects I contribute to.
-[Archives of the live streams are available on YouTube](https://youtube.com/WimpysWorld) 📺️
+I also run [live-coding streams on Twitch](https://twitch.tv/WimpysWorld) which are [archived on YouTube](https://youtube.com/WimpysWorld) 📺️
 
 These awesome people sponsor me: [castrojo](https://github.com/castrojo) Thank you! ❤️
-If you appreciate the work I do, then [please consider sponsoring me](https://github.com/sponsors/flexiondotorg) 🤑
+If you appreciate the work I do, then [please consider sponsoring me too](https://github.com/sponsors/flexiondotorg) 🤑
 
 Curious what I've been working on recently?
 
