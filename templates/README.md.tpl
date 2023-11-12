@@ -68,6 +68,8 @@ Here's some recent episodes:
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
+<!--
 <p align='center'>
   <img align="center" src="https://raw.githubusercontent.com/flexiondotorg/github-stats-terminal-style/master/github_stats.svg">
 </p>
+-->

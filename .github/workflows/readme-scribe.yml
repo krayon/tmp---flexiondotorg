@@ -1,5 +1,6 @@
-name: Update README
+name: Update README ✍️
 
+# Run hourly
 on:
   push:
   schedule:
