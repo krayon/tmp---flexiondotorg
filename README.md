@@ -21,6 +21,13 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   <img align="center" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake-dark.svg">
 </div>
 
+![Discord](https://img.shields.io/discord/712850672223125565?style=social&logo=discord&label=Discord)
+![Mastodon Follow](https://img.shields.io/mastodon/follow/109326458276794082?domain=https%3A%2F%2Ffosstodon.org&style=social&logo=mastodon)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/m_wimpress?style=social&logo=x)
+![Twitch Status](https://img.shields.io/twitch/status/wimpysworld?style=social&logo=twitch&label=Twitch)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChpYmMp7EFaxuogUX1eAqyw?style=social&logo=youtube)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/flexiondotorg?style=social&logo=reddit)
+
 #### 🚧 Latest contributions I made
 
 - [flexiondotorg/flexiondotorg.github.io](https://github.com/flexiondotorg/flexiondotorg.github.io) - My personal blog (1 day ago)
@@ -76,5 +83,3 @@ Here's some recent episodes:
 - [Flash Stadia Controller Bluetooth Firmware on Linux](https://wimpysworld.com/posts/flash-stadia-controller-bluetooth-firmware-on-linux/) (6 months ago)
 - [Why I chose the ThinkPad Z13 Gen1 as my Linux laptop](https://wimpysworld.com/posts/why-i-chose-the-thinkpad-z13-as-my-linux-laptop/) (6 months ago)
 - [Creating Production-Ready Containers - Advanced Techniques](https://wimpysworld.com/posts/creating-production-ready-containers-advanced-techniques/) (2 years ago)
-
-
