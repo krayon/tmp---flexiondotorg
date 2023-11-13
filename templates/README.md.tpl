@@ -31,7 +31,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 ### 🚧 Latest contributions I made
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
+  - {{with .Repo.Description}}{{.}}{{- end}}
 {{- end}}
 
 ### 🔨 Latest pull requests I published
@@ -42,7 +43,7 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 ### 📦️ Latest releases I contributed to
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}})
-  - {{with .Description}} - {{.}}{{- end}}
+  - {{with .Description}}{{.}}{{- end}}
 {{- end}}
 
 <!--
