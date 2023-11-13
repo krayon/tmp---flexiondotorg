@@ -41,7 +41,8 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
 
 ### 📦️ Latest releases I contributed to
 {{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{with .Description}} - {{.}}{{end}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}})
+  - {{with .Description}} - {{.}}{{- end}}
 {{- end}}
 
 <!--
