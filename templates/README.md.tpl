@@ -29,21 +29,24 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   <img align="center" alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/snake/github-contribution-grid-snake-dark.svg">
 </div>
 
-### 🚧 Latest contributions I made
+### Recent project contributions 🏗️
+
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .OccurredAt}})
-  - {{with .Repo.Description}}{{.}}{{- end}}
+  - {{.Repo.Description}}
 {{- end}}
 
-### 🔨 Latest pull requests I published
+### Recent pull requests 🛠️
+
 {{range recentPullRequests 5}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-### 📦️ Latest releases I contributed to
+### Recent releases 📦️
+
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}})
-  - {{with .Description}}{{.}}{{- end}}
+  - {{.Description}}
 {{- end}}
 
 <!--
