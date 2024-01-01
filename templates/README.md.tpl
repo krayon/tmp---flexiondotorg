@@ -49,12 +49,12 @@ If you appreciate the work I do, then [please consider sponsoring me too](https:
   - {{.Description}}
 {{- end}}
 
-### Recent stars ⭐️
+### Recent starred projects ⭐️
 
 {{range recentStars 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) ({{.Repo.Stargazers}})
   - {{.Repo.Description}}
-{{end}}
+{{- end}}
 
 ### 🎙️ Podcast
 <img align="right" src="https://raw.githubusercontent.com/flexiondotorg/flexiondotorg/main/.github/linuxmatters.png" alt="Linux Matters Podcast" width="200" height="200">
