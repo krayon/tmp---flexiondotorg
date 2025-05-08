@@ -8,7 +8,6 @@
 </p>
 <a href="https://github.com/flexiondotorg" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api?username=flexiondotorg&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true&bg_color=0E1117&title_color=fa66ed&icon_color=6bbbfa&text_color=c5c8c6&ring_color=98ed3f&border_radius=8" alt="GitHub Stats"></a>
 <br />
-<!-- <a href="https://github.com/flexiondotorg" target="_blank"><img align="right" src="https://streak-stats.demolab.com?user=flexiondotorg&theme=cobalt&border_radius=8&date_format=j%20M%5B%20Y%5D&mode=daily&card_width=465&hide_total_contributions=true" alt="GitHub Streak" /></a> -->
 
 Hello 👋 I'm Martin (*also known as Wimpy*), a long-time Linux user, developer & community builder 🐧 Maker 🪛 [Linux Matters](https://linuxmatters.sh) host 🎙️ Occasional game jam participant and [aspiring game developer](https://oval-tutu.com) using pico-8, LÖVE, and Defold 🕹️
 
@@ -73,7 +72,3 @@ Here are some recent episodes:
 {{range rss "https://wimpysworld.com/posts/rss.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
-
-<p align="center">
-  <a href="https://github.com/flexiondotorg/flexiondotorg" target="_blank"><img alt="Hit Counter" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fflexiondotorg%2Fflexiondotorg.json&style=flat-square&logo=github&logoColor=ffffff&label=Visitors&labelColor=%23f76ce9&color=%236fbbf6">
-</p>
